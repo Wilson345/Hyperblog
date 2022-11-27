@@ -43,6 +43,14 @@ body {
 
 }
 
+<<<<<<< HEAD
 #cabecera #logo {
     width: 20px ;
+=======
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 20%;
+>>>>>>> 417efcc02ec283b185d295c8f2efa2874dc8622e
 }
